@@ -1,0 +1,6 @@
+{
+  "name": "Health Misinformation Detective",
+  "description": "An interactive tool to verify medical and health claims against reliable, evidence-based data sources and scientific consensus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
